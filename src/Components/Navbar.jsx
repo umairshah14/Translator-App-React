@@ -17,7 +17,7 @@ const Navbar = () => {
           </span>
         </h1>
         <h1 className=" font-light ml-1 pt-0.5 text-[#333333]">Translate</h1>        
-        <img src={logo} className="w-8 ml-auto mr-6" />
+        <img src={logo} alt="writing of logo name"className="w-8 ml-auto mr-6" />
       </div>
     </nav>
   );
